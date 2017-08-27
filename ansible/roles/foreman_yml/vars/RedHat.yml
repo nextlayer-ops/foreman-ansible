@@ -1,5 +1,0 @@
----
-foreman_yml_pkg:
-  - python-requests
-  - python-setuptools
-  - PyYAML
